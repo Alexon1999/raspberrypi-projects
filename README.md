@@ -1,2 +1,1 @@
-# raspberrypi-projects
-Projets avec Raspberry Pi
+# Projects with Raspberry Pi
